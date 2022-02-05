@@ -22,7 +22,7 @@
     <artifactId>nifi-hdfs-processors</artifactId>
     <packaging>jar</packaging>
     <properties>
-        <hadoop.version>3.0.0</hadoop.version>
+        <hadoop.version>3.1.1</hadoop.version>
     </properties>
     <dependencies>
         <dependency>
